@@ -1,0 +1,12 @@
+{
+  "model": "gpt-4",
+  "usage": {
+    "prompt_tokens": 150,
+    "completion_tokens": 80,
+    "total_tokens": 230
+  },
+  "message": {
+    "role": "assistant",
+    "content": "Berdasakan data, customer Sari berisiko Churn."
+  }
+}
